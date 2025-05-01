@@ -21,6 +21,13 @@ int main() { _
     int n=3;
     vector<int> v;
 
+    //long long ou int (long int)
+
+    //int -> -2147483648 a 2147483647
+    //int -> -2*10e9 a 2*10e9
+
+    //2*109
+
     while(n--) {
         int a;
         cin >> a;
