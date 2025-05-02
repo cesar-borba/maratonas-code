@@ -13,6 +13,9 @@ const ll LINF = 0x3f3f3f3f3f3f3f3fll;
 
 using namespace std;
 
+//Letra/Num: Problema B / nº 02
+//Nome: Escolha Científica
+
 int main() { _
 
     int n;
