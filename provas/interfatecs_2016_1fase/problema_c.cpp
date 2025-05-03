@@ -14,6 +14,9 @@ const ll LINF = 0x3f3f3f3f3f3f3f3fll;
 
 using namespace std;
 
+//Letra/Num: Problema C / nº 03
+//Nome: Vacina
+
 int main() { _
 
     string seq1, seq2, seq3;
